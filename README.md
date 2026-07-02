@@ -1,4 +1,4 @@
-Resume Analyser
+Resume Analyser App
 A Python tool to parse and analyze PDF resumes, extract relevant information, and provide structured output for further processing or insights.
 
 Features
